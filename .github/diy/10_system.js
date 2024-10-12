@@ -67,12 +67,12 @@ return baseclass.extend({
 		// TODO: This is ugly
 		var projectlink = document.createElement('a');
 		projectlink.append('kenzo');
-		projectlink.href = 'https://github.com/kenzok8';
+		projectlink.href = 'https://github.com/linhahaz';
 		projectlink.target = '_blank';
 
 		var corelink = document.createElement('a');
 		corelink.append('openwrt_Build');
-		corelink.href = 'https://github.com/kenzok8/openwrt_Build';
+		corelink.href = 'https://github.com/linhahaz/openwrt_Build';
 		corelink.target = '_blank';
 
 		var sourcelink = document.createElement('placeholder');
